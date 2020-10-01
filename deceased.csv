@@ -1,0 +1,374 @@
+,id,name,household_id,country,city,birthday,deceased,zip,state,lat,lon,capacity,capacity_source,race,last_contact,numer_of_contacts,gift_officer,event,volunteer,time_on_site,interests
+195,5362965,"Goree, Corey",2480106,United States,Pittsfield,2/23/1944,Y,1201.0,MA,42.45,-73.26,,screening,Hispanic or Latino,7/6/2018,26.0,"al-Hakeem, Haamid",N,,,"art,politics,fashion,wine,skiing"
+556,1979732,"Adapa, Adam",6139151,United States,Bedford,5/6/1949,Y,1730.0,MA,42.48,-71.26,$1k - $2.5k,institutional,Non-Hispanic white,10/12/2018,27.0,"Bowyer, Ryan",,,,
+908,5396703,"Roberts, Parismonte",2046263,United States,Nahant,,Y,1908.0,MA,42.42,-70.92,$2.5k - $5k,screening,Hispanic or Latino,,20.0,"Masters, Deisha",N,,,"health/exercise,art,boating/sailing,cars,wine"
+1024,4064324,"el-Azimi, Rasheeq",8386724,United States,Bellingham,11/6/1930,Y,2019.0,MA,42.09,-71.47,$25k - $50k,screening,Non-Hispanic white,,7.0,"al-Jaffer, Awda",N,,,"politics,fashion,hunting/fishing,food/dining/cooking"
+1175,3267108,"San, Christina",9731081,United States,Boston,12/10/1950,Y,2118.0,MA,42.35,-71.06,$1k - $2.5k,,Non-Hispanic white,2/3/2019,6.0,"Tolbert, Yekalo",N,,15.0,"politics,reading"
+1230,6755677,"Eldert, Erin",4525415,United States,Boston,6/15/1932,Y,2127.0,MA,42.35,-71.06,$2.5k - $5k,screening,Hispanic or Latino,,0.0,"Yang, Andrew",N,,,
+1243,6139378,"Gonzalez-Carrazco, Angel",4871226,United States,Boston,8/27/1937,Y,2128.0,MA,42.35,-71.06,$25k - $50k,,Non-Hispanic white,8/12/2019,28.0,"al-Hakeem, Haamid",N,,146.0,
+1348,1291582,"Goff, Nia",9755935,United States,Somerville,10/28/1975,Y,2143.0,MA,42.39,-71.1,$10k - $25k,screening,Non-Hispanic white,2/20/2018,3.0,"Ha, John",Y,,45.0,
+1378,3322255,"Walters, Jennifer",3226744,United States,Malden,11/2/1929,Y,2148.0,MA,42.43,-71.05,$10k - $25k,screening,Black or African American,6/19/2019,5.0,"Bowyer, Ryan",N,,,"politics,golf,fashion,sports"
+1493,9705510,"Misztal, Mason",8738664,United States,Quincy,5/2/1951,Y,2169.0,MA,42.26,-71.0,$50k - $75K,screening,Non-Hispanic white,10/17/2017,16.0,"al-Hakeem, Haamid",N,,,
+1834,8817404,"Apodaca, Anthony",4337558,United States,Sandwich,3/24/1936,Y,2563.0,MA,41.75,-70.49,,,Asian,3/1/2019,25.0,"Masters, Deisha",N,,137.0,"wine,hunting/fishing,sports,fashion"
+1929,9952168,"Purevsuren, Tuyet",7494837,United States,Fall river,12/12/1980,Y,2720.0,MA,41.71,-71.1,$75k - $100k,institutional,Non-Hispanic white,11/18/2015,32.0,"Yang, Andrew",N,0.0,,
+1971,4024881,"Salas, Daniel",7689911,United States,New bedford,8/25/1945,Y,2740.0,MA,41.66,-70.93,$25k - $50k,institutional,Asian,,20.0,"Topper, Kyle",,,,health/exercise
+2007,3217943,"Kidd, Hunter",3054183,United States,Plainville,2/3/1955,Y,2762.0,MA,42.0,-71.33,>$1k,institutional,Non-Hispanic white,5/8/2018,22.0,"Kim, Felicia",N,0.0,,
+2531,7507335,"Mace, Kirsten",5516996,United States,Manchester,12/23/1950,Y,3101.0,NH,42.99,-71.45,$250k - $500k,screening,Hispanic or Latino,,16.0,"al-Mourad, Haajid",N,,,skiing
+2784,5312178,"Pooley, J'Rita",4267937,United States,Farmington,10/7/1954,Y,3835.0,NH,43.4,-71.07,$500k - $750k,screening,Hispanic or Latino,7/6/2016,13.0,"Walter, Dianna",N,,184.0,
+3183,6606928,"Atencio, Omar",6733247,United States,Waterville,6/19/1933,Y,4901.0,ME,44.56,-69.55,$500k - $750k,screening,Non-Hispanic white,4/18/2018,18.0,"Topper, Kyle",N,,,"politics,skiing,wine,reading,golf"
+3184,7003977,"Gee, Toi",6733247,United States,Waterville,11/14/1935,Y,4901.0,ME,44.56,-69.55,$500k - $750k,institutional,Non-Hispanic white,3/21/2019,22.0,"al-Mourad, Haajid",,,,travel
+3288,5715196,"Murphy, Desmond",5716328,United States,Colchester,10/10/1926,Y,5446.0,VT,44.53,-73.15,$2.5k - $5k,institutional,Non-Hispanic white,,4.0,"Topper, Kyle",N,1.0,,"skiing,hunting/fishing,health/exercise,fashion,golf"
+3368,1675642,"Carrasco, Ivon",2476669,United States,Rutland,9/30/1934,Y,5701.0,VT,43.6,-72.97,$10k - $25k,screening,Non-Hispanic white,10/17/2015,1.0,"al-Hakeem, Haamid",N,,,"fashion,golf,food/dining/cooking,wine"
+3582,8303518,"Martinez, Christopher",4208332,United States,Simsbury,9/8/1941,Y,6070.0,CT,41.88,-72.81,$25k - $50k,screening,Two or more races,12/7/2019,14.0,"al-Salem, Ma,Roof",N,,441.0,"hunting/fishing,cars,reading"
+4292,6744143,"Inthapatha, Jenna",8450473,United States,Waterbury,8/15/1955,Y,6705.0,CT,41.55,-73.03,$750k - $1M,screening,Non-Hispanic white,3/18/2017,4.0,"Topper, Kyle",N,,,
+4344,8921951,"Degabriele, Jordan",2093198,United States,Oakville,,Y,6779.0,CT,41.59,-73.08,$10k - $25k,institutional,Non-Hispanic white,5/30/2017,1.0,"Bowyer, Ryan",N,,,"boating/sailing,fashion"
+4353,3867228,"el-Sultan, Lutfiyya",2312030,United States,Torrington,11/10/1944,Y,6790.0,CT,41.83,-73.12,$100k - $250k,screening,Non-Hispanic white,7/20/2016,,"White, Abigail",N,,,"art,travel"
+4434,6618985,"Alderete, Jennifer",2712961,United States,New fairfield,1/19/1963,Y,6812.0,CT,41.48,-73.48,$500k - $750k,institutional,Hispanic or Latino,,0.0,"Topper, Kyle",N,,,"politics,food/dining/cooking,wine,reading,skiing"
+4662,4207012,"Peters, Mary",9613451,United States,Clifton,9/2/1970,Y,7011.0,NJ,40.86,-74.15,$10k - $25k,institutional,Non-Hispanic white,11/5/2019,23.0,"Porras, Marisa",N,,276.0,
+4851,1752383,"Ross, Samara",9366162,United States,West orange,10/11/1932,Y,7052.0,NJ,40.79,-74.26,,screening,Non-Hispanic white,10/15/2018,34.0,"Estrada, Jorge",,,,
+5080,6952205,"Fleharty, Dawnee",9508409,United States,West new york,,Y,7093.0,NJ,40.78,-74.0,$75k - $100k,screening,Native Americans or Alska Natives,10/2/2017,13.0,"Yang, Andrew",N,0.0,68.0,wine
+5138,7771756,"al-Jabbour, Layaali",3116449,United States,Newark,10/6/1930,Y,7107.0,NJ,40.72,-74.17,$500k - $750k,institutional,Non-Hispanic white,11/20/2017,8.0,"Bowyer, Ryan",N,,,wine
+5207,6424780,"Shrestha, Johny",5764012,United States,Newark,2/11/1927,Y,7112.0,NJ,40.72,-74.17,,screening,Non-Hispanic white,,39.0,"al-Hakeem, Haamid",N,,,"food/dining/cooking,hunting/fishing"
+5477,6156178,"Tugade, Samin",4112504,United States,Wanaque,3/31/1939,Y,7465.0,NJ,41.04,-74.29,$5k - $10k,screening,Non-Hispanic white,6/29/2018,16.0,"Kim, Felicia",Y,,,"travel,wine,hunting/fishing,health/exercise,food/dining/cooking"
+5825,5673759,"el-Hai, Sabriyya",5667869,United States,Keyport,10/5/1940,Y,7735.0,NJ,40.43,-74.2,,screening,Non-Hispanic white,3/26/2018,25.0,"Bowyer, Ryan",N,,,"art,fashion,golf,reading"
+5912,2046981,"Levinson, Gregory",9253506,United States,West long branch,11/18/1943,Y,7764.0,NJ,40.29,-74.01,$25k - $50k,screening,Non-Hispanic white,11/14/2018,4.0,"Varelas, Michael",N,,,
+5978,3047032,"Taylor, Antonio",7232382,United States,Long valley,1/2/1942,Y,7853.0,NJ,40.78,-74.76,$10k - $25k,screening,Hispanic or Latino,8/4/2019,,"Varelas, Michael",N,,171.0,"art,cars,fashion,food/dining/cooking"
+6188,6458782,"Kostelecky, Natasha",8452867,United States,Blackwood,6/25/1921,Y,8012.0,NJ,39.79,-75.06,$25k - $50k,institutional,Non-Hispanic white,8/14/2016,3.0,"al-Mourad, Haajid",N,,,health/exercise
+6216,7199283,"Castrejon, Aurelia",2839985,United States,Clementon,7/22/1925,Y,8021.0,NJ,39.8,-74.98,$500k - $750k,institutional,Non-Hispanic white,11/5/2016,7.0,"Sanchez, Nohemi",N,,291.0,"art,sports"
+6569,7829918,"Benjamin, Erin",4036900,United States,Collingswood,,Y,8108.0,NJ,39.91,-75.07,$2.5k - $5k,screening,Non-Hispanic white,6/20/2016,1.0,"Masters, Deisha",,,,"cars,boating/sailing"
+6792,1520348,"Weems, Orion",7571545,United States,Hightstown,1/12/1946,Y,8520.0,NJ,40.26,-74.52,$1k - $2.5k,,Non-Hispanic white,3/1/2019,21.0,"Sanchez, Nohemi",N,,,
+7026,9320394,"el-Azam, Shujaa",9743400,United States,Brick,1/5/1991,Y,8724.0,NJ,40.06,-74.11,$2.5k - $5k,institutional,Asian,7/21/2020,6.0,"Ha, John",,,,
+7480,8728145,"Gray, Brandon",4832061,United States,New york,5/28/1938,Y,10010.0,NY,40.71,-73.99,$750k - $1M,screening,Non-Hispanic white,,5.0,"Porras, Marisa",,,,"fashion,politics"
+7932,6827829,"Keese, Matthew",6782590,United States,New york,3/9/1944,Y,10128.0,NY,40.71,-73.99,$25k - $50k,screening,Non-Hispanic white,,36.0,"Ha, John",N,,,"fashion,sports"
+8431,7645505,"al-Amini, Dhaki",4361938,United States,Bronx,7/1/1968,Y,10472.0,NY,40.84,-73.87,,institutional,Non-Hispanic white,8/9/2018,12.0,"Ha, John",N,,137.0,
+8816,2284859,"Brannon, Thomas",6501882,United States,Suffern,3/8/1950,Y,10901.0,NY,41.11,-74.14,$1k - $2.5k,,Hispanic or Latino,,2.0,"al-Hakeem, Haamid",Y,,,"cars,boating/sailing,skiing,wine,fashion"
+8888,4414585,"James, Diana",2370679,United States,New city,6/28/1928,Y,10956.0,NY,41.15,-73.99,$25k - $50k,institutional,Non-Hispanic white,8/26/2018,38.0,"Ha, John",N,,4.0,"hunting/fishing,golf"
+8952,3160179,"Dumaoal, Karthik",9187243,United States,Valley cottage,6/26/1925,Y,10989.0,NY,41.11,-73.94,$5k - $10k,institutional,Non-Hispanic white,4/22/2016,22.0,"al-Mourad, Haajid",N,,,"golf,hunting/fishing,skiing,travel,food/dining/cooking"
+9074,9325472,"Campuzano, Viridiana",7498720,United States,Astoria,8/18/1948,Y,11103.0,NY,40.78,-73.91,$50k - $75K,,Non-Hispanic white,,11.0,"al-Jaffer, Awda",Y,,,
+9479,6195552,"Bonsu, Amna",8578260,United States,Brooklyn,7/9/1934,Y,11220.0,NY,40.64,-73.94,$25k - $50k,screening,Non-Hispanic white,5/18/2019,14.0,"Walter, Dianna",Y,,,
+9547,1216818,"Flavors, Anthony",2970427,United States,Brooklyn,1/22/1995,Y,11225.0,NY,40.64,-73.94,$25k - $50k,screening,Non-Hispanic white,5/28/2017,0.0,"White, Abigail",N,,,"fashion,reading"
+9767,2556095,"al-Baksh, Shihaab",6948778,United States,Brooklyn,,Y,11237.0,NY,40.64,-73.94,$75k - $100k,institutional,Native Americans or Alska Natives,12/10/2018,16.0,"Masters, Deisha",N,,,wine
+9772,7825580,"Jamili, Laveen",2306428,United States,Brooklyn,5/8/1925,Y,11238.0,NY,40.64,-73.94,,institutional,Hispanic or Latino,,,"al-Mourad, Haajid",,,,"food/dining/cooking,skiing,reading"
+10217,2470972,"al-Salih, Azeema",9122924,United States,Kew gardens,4/30/1928,Y,11415.0,NY,40.7,-73.82,$10k - $25k,screening,Non-Hispanic white,,25.0,"al-Salim, Hamdaan",N,,,"cars,golf,skiing,wine"
+10239,5738623,"Reed, Adulis",2434697,United States,Richmond hill,3/3/1934,Y,11418.0,NY,40.69,-73.83,$50k - $75K,screening,Non-Hispanic white,,16.0,"Sanchez, Nohemi",N,,,"health/exercise,art,golf,skiing,wine"
+10473,6993154,"Delgado, Mariah",4768141,United States,Hempstead,4/5/1938,Y,11550.0,NY,40.7,-73.61,$50k - $75K,screening,Non-Hispanic white,1/10/2017,3.0,"Walter, Dianna",,,193.0,"wine,politics"
+10491,6516061,"Rothe, Kou Pheng",4668115,United States,West hempstead,5/16/1941,Y,11552.0,NY,40.69,-73.65,$750k - $1M,,Non-Hispanic white,10/11/2018,4.0,"al-Salem, Ma,Roof",N,,,"travel,wine,food/dining/cooking"
+11226,8695221,"Demandante, Reit-T",8291935,United States,Calverton,2/21/1968,Y,11933.0,NY,40.92,-72.76,$75k - $100k,screening,Non-Hispanic white,,42.0,"Bowyer, Ryan",N,,,"health/exercise,reading,boating/sailing,skiing,travel"
+11508,9002921,"Thompson, Mekides",1948502,United States,Albany,1/28/1956,Y,12206.0,NY,42.66,-73.79,,institutional,Hispanic or Latino,7/6/2018,44.0,"Yang, Andrew",,,,"hunting/fishing,art,wine"
+11589,6870627,"Kurtzer, Jesse",3342943,United States,East durham,3/8/1958,Y,12423.0,NY,42.38,-74.11,>$1k,screening,Non-Hispanic white,8/3/2016,33.0,"Kim, Felicia",N,,,"cars,food/dining/cooking,sports"
+11932,8249995,"Quintanilla Navarro, Manuel",9058820,United States,Malone,,Y,12953.0,NY,44.84,-74.29,$5k - $10k,institutional,Non-Hispanic white,,3.0,"al-Jaffer, Awda",Y,0.0,696.0,"reading,travel,sports,health/exercise,skiing"
+12425,6817199,"Binns, Sadyan",9675906,United States,Owego,6/13/1949,Y,13827.0,NY,42.1,-76.26,$25k - $50k,screening,Non-Hispanic white,,46.0,"Middleton, Lauren",N,,,"health/exercise,reading,fashion,golf"
+12984,8434075,"Leist, Nicholle",9265226,United States,Newark,6/28/1957,Y,14513.0,NY,43.04,-77.09,,institutional,Non-Hispanic white,9/29/2017,21.0,"al-Jaffer, Awda",Y,,,
+13232,4625638,"Tamblyn, Blake",9175963,United States,Allegany,12/6/1958,Y,14706.0,NY,42.09,-78.49,$10k - $25k,institutional,Non-Hispanic white,10/11/2018,21.0,"al-Mourad, Haajid",N,,,
+13269,8796568,"al-Morad, Shamaail",3001004,United States,Belmont,6/13/1970,Y,14813.0,NY,42.22,-78.03,$50k - $75K,screening,Non-Hispanic white,4/3/2018,34.0,"Yang, Andrew",,,,"reading,food/dining/cooking,golf,hunting/fishing,boating/sailing"
+13353,3544509,"Ballenger, Edward",3919518,United States,Aliquippa,,Y,15001.0,PA,40.61,-80.25,$5k - $10k,screening,Non-Hispanic white,,0.0,"al-Mourad, Haajid",N,,,
+13544,9532473,"Mcavenia, David",5088426,United States,South park,11/23/1924,Y,15129.0,PA,40.29,-79.99,,screening,Hispanic or Latino,,6.0,"White, Abigail",N,0.0,,
+13731,4319497,"Huynh, Jonathan",8639559,United States,Pittsburgh,4/1/1992,Y,15220.0,PA,40.43,-79.97,$75k - $100k,institutional,Non-Hispanic white,,24.0,"White, Abigail",N,,,hunting/fishing
+13851,1371770,"Rhinehart, Taylor",6612041,United States,Pittsburgh,8/19/1943,Y,15237.0,PA,40.43,-79.97,$10k - $25k,screening,Black or African American,8/11/2018,19.0,"al-Hakeem, Haamid",,,,
+14257,1640218,"Taylor, Olivia",9268912,United States,Mercer,1/27/1972,Y,16137.0,PA,41.22,-80.23,$5k - $10k,institutional,Black or African American,,,"Porras, Marisa",N,1.0,,
+14453,1556609,"al-Dia, Tayyiba",3119447,United States,Altoona,6/26/1965,Y,16602.0,PA,40.5,-78.4,$5k - $10k,screening,Non-Hispanic white,5/2/2017,5.0,"White, Abigail",N,,,hunting/fishing
+14790,1895952,"Vigil, Dayana",5365934,United States,Harrisburg,2/7/1976,Y,17104.0,PA,40.27,-76.88,$250k - $500k,screening,Non-Hispanic white,11/29/2018,6.0,"Walter, Dianna",N,0.0,,"hunting/fishing,cars"
+14826,1551656,"Douglas, Miles",6461259,United States,Harrisburg,8/17/1970,Y,17112.0,PA,40.27,-76.88,$10k - $25k,,Non-Hispanic white,1/14/2019,37.0,"White, Abigail",N,,,
+15041,4471415,"el-Hashem, Saajid",4676477,United States,Akron,11/20/1945,Y,17501.0,PA,40.15,-76.2,$500k - $750k,institutional,Two or more races,9/13/2017,23.0,"Tolbert, Yekalo",N,,,"boating/sailing,fashion"
+15094,5333805,"Mendenhall, Malena",3941462,United States,Kirkwood,1/23/1944,Y,17536.0,PA,39.82,-76.09,$10k - $25k,institutional,Hispanic or Latino,10/12/2018,40.0,"el-Sawaya, Waseema",Y,,53.0,golf
+15552,9087786,"el-Koroma, Abdul Ghani",2242974,United States,Zionsville,8/27/1933,Y,18092.0,PA,40.47,-75.52,$5k - $10k,,Non-Hispanic white,12/23/2018,14.0,"Porras, Marisa",Y,,,
+15847,6954851,"Robbins, Shelby",2121236,United States,Kingston,3/12/1936,Y,18704.0,PA,41.26,-75.88,$75k - $100k,institutional,Non-Hispanic white,,6.0,"Sanchez, Nohemi",Y,,,fashion
+16243,9067959,"Martinez, Bobbie",5782664,United States,Levittown,1/6/1951,Y,19055.0,PA,40.15,-74.85,$500k - $750k,screening,Non-Hispanic white,3/1/2019,3.0,"Tolbert, Yekalo",N,,,
+16373,9212477,"Giron Lovato, Regina",4005107,United States,Willow grove,3/20/1984,Y,19090.0,PA,40.14,-75.11,$5k - $10k,institutional,Non-Hispanic white,2/23/2016,0.0,"al-Mourad, Haajid",Y,,,
+17051,6850657,"Mendez, Isaiah",8152894,United States,Collegeville,9/17/1981,Y,19426.0,PA,40.18,-75.45,$10k - $25k,screening,Non-Hispanic white,,37.0,"Masters, Deisha",N,,,
+17292,2459400,"el-Abdi, Nawfal",5980290,United States,Bear,8/10/1921,Y,19701.0,DE,39.58,-75.68,$25k - $50k,institutional,Non-Hispanic white,10/16/2016,20.0,"Masters, Deisha",N,,656.0,
+17532,7520425,"Quezada, Kahritina",6929047,United States,Hartly,2/10/1930,Y,19953.0,DE,39.16,-75.71,,,Non-Hispanic white,11/30/2015,33.0,"Masters, Deisha",N,0.0,,"hunting/fishing,cars,wine,reading,travel"
+17697,8191285,"al-Saad, Tameem",7134802,United States,Washington,8/28/1960,Y,20015.0,DC,38.89,-77.03,$100k - $250k,institutional,Two or more races,12/21/2018,23.0,"al-Jaffer, Awda",N,,,travel
+19262,1708487,"al-Doud, Safiyya",2813544,United States,Baltimore,3/23/1922,Y,21217.0,MD,39.3,-76.61,$750k - $1M,institutional,Hispanic or Latino,,19.0,"Yang, Andrew",,,,"sports,fashion,food/dining/cooking"
+19751,6169897,"Trujillo, Maile",7595097,United States,Salisbury,3/19/1925,Y,21801.0,MD,38.37,-75.58,$100k - $250k,screening,Non-Hispanic white,8/22/2018,,"al-Mourad, Haajid",N,,,"food/dining/cooking,sports"
+19853,4889632,"Riley, Michaellee",4905275,United States,Annandale,11/25/1992,Y,22003.0,VA,38.83,-77.21,,screening,Non-Hispanic white,2/7/2017,14.0,"al-Salem, Ma,Roof",N,0.0,,
+19947,6100801,"Saunders, Wendy",1973686,United States,Fairfax station,12/19/1927,Y,22039.0,VA,38.8,-77.32,$1k - $2.5k,screening,Non-Hispanic white,7/13/2018,22.0,"Middleton, Lauren",N,,377.0,
+20206,1797770,"Martinez, Ty",3683483,United States,Alexandria,9/23/1935,Y,22305.0,VA,38.82,-77.08,$5k - $10k,institutional,Hispanic or Latino,7/12/2018,3.0,"Estrada, Jorge",Y,,,"reading,sports,wine"
+20477,9975048,"Ogren, Haley",3439842,United States,Front royal,12/11/1958,Y,22630.0,VA,38.92,-78.18,$5k - $10k,screening,Non-Hispanic white,1/29/2016,17.0,"al-Salim, Hamdaan",N,,,
+20653,4153675,"Hill, Levi",4846286,United States,Cumberland,5/6/1969,Y,23040.0,VA,37.49,-78.24,$25k - $50k,institutional,Black or African American,2/19/2018,6.0,"White, Abigail",N,,,
+20760,2184667,"el-Jan, Abdur Raheem",8829609,United States,Mineral,10/11/1951,Y,23117.0,VA,38.0,-77.9,$100k - $250k,screening,Hispanic or Latino,,0.0,"Kim, Felicia",Y,,246.0,"wine,health/exercise,cars,art"
+20806,5826345,"Medina, Guadalupe",3087031,United States,Williamsburg,11/15/1944,Y,23188.0,VA,37.27,-76.7,>$1k,institutional,Asian,4/26/2017,8.0,"al-Salim, Hamdaan",,,,
+20950,7169513,"al-Popal, Suhaad",2209662,United States,Richmond,3/26/1936,Y,23234.0,VA,37.55,-77.46,$10k - $25k,screening,Hispanic or Latino,,32.0,"White, Abigail",N,,,"golf,politics"
+21146,5578348,"Zeller, Justin",8464423,United States,Virginia beach,5/4/1945,Y,23452.0,VA,36.73,-76.04,$75k - $100k,screening,Non-Hispanic white,,,"White, Abigail",N,,,"boating/sailing,hunting/fishing,skiing,cars,reading"
+21815,2740755,"Ortega, Jagger",3883238,United States,Wytheville,2/7/1955,Y,24382.0,VA,36.95,-81.08,$5k - $10k,screening,Non-Hispanic white,3/14/2018,26.0,"Bowyer, Ryan",N,,,
+21878,7654474,"Taylor, Alyssa",9786805,United States,Lynchburg,11/29/1939,Y,24502.0,VA,37.4,-79.19,$500k - $750k,institutional,Hispanic or Latino,,15.0,"al-Hakeem, Haamid",N,,513.0,hunting/fishing
+22674,6635320,"Cameron, Liah",4036285,United States,Asheboro,5/19/1921,Y,27203.0,NC,35.71,-79.81,$2.5k - $5k,institutional,Black or African American,11/17/2017,4.0,"Masters, Deisha",N,,,
+22940,4233561,"Aragon, Leandra",6298640,United States,Siler city,8/27/1951,Y,27344.0,NC,35.72,-79.46,$2.5k - $5k,screening,Native Americans or Alska Natives,7/13/2016,7.0,"Kim, Felicia",N,0.0,,"food/dining/cooking,art,sports"
+22960,8214727,"Williams, Anthony",3911077,United States,Thomasville,10/24/1946,Y,27360.0,NC,35.88,-80.07,$25k - $50k,institutional,Hispanic or Latino,,19.0,"al-Jaffer, Awda",Y,,,"travel,health/exercise,sports,golf,cars"
+22974,9421916,"Price, Shellecia",2315563,United States,Troy,9/2/1928,Y,27371.0,NC,35.36,-79.89,$2.5k - $5k,institutional,Non-Hispanic white,4/8/2017,24.0,"Tolbert, Yekalo",N,,,"sports,politics,boating/sailing,travel,food/dining/cooking"
+23257,5776096,"Dawe, Austin",8830675,United States,Henderson,11/17/1940,Y,27537.0,NC,36.37,-78.37,>$1k,screening,Non-Hispanic white,,,"al-Salem, Ma,Roof",N,,,
+23825,9868440,"Ahluwalia, Joi",4669635,United States,Concord,1/29/1951,Y,28025.0,NC,35.4,-80.59,$75k - $100k,screening,Hispanic or Latino,7/10/2017,13.0,"al-Salem, Ma,Roof",,,,"food/dining/cooking,golf"
+24428,8421350,"Lujan Jr, Shanee",2930623,United States,Fayetteville,3/18/1918,Y,28314.0,NC,35.05,-78.87,$2.5k - $5k,screening,Non-Hispanic white,9/30/2017,19.0,"al-Salim, Hamdaan",N,,,
+24625,6350099,"Rea, Alison",9224055,United States,Wilmington,9/11/1933,Y,28403.0,NC,34.21,-77.91,$100k - $250k,institutional,Non-Hispanic white,2/20/2019,10.0,"Porras, Marisa",N,,,
+24629,5128084,"Johnson, Regina",2700395,United States,Wilmington,7/5/1961,Y,28405.0,NC,34.21,-77.91,$50k - $75K,,Non-Hispanic white,2/18/2018,6.0,"Kim, Felicia",N,,336.0,wine
+24798,8241789,"Bush, Dayshawn",8512621,United States,Jacksonville,,Y,28540.0,NC,34.76,-77.4,$5k - $10k,screening,Non-Hispanic white,5/20/2018,16.0,"al-Hakeem, Haamid",N,,,"boating/sailing,golf,politics"
+24888,3002192,"al-Allee, Asad",5204231,United States,Hickory,9/12/1930,Y,28602.0,NC,35.73,-81.32,$75k - $100k,institutional,Non-Hispanic white,,15.0,"Middleton, Lauren",Y,,,
+24895,2483157,"Price, Cheyenne",5007232,United States,Boone,3/25/1946,Y,28607.0,NC,36.2,-81.66,$100k - $250k,screening,Non-Hispanic white,,19.0,"al-Salim, Hamdaan",N,,,"politics,food/dining/cooking,health/exercise"
+25419,2137222,"Ferguson, Katherine",8054080,United States,Sumter,5/20/1951,Y,29150.0,SC,33.94,-80.39,$5k - $10k,screening,Non-Hispanic white,10/21/2015,25.0,"Ha, John",N,,,"reading,boating/sailing"
+25465,3151416,"Walker, Mariah",6512145,United States,Columbia,2/18/1995,Y,29201.0,SC,34.0,-81.03,$50k - $75K,screening,Non-Hispanic white,,,"Varelas, Michael",Y,,,
+25467,2813508,"Krantz, Peter",2013961,United States,Columbia,10/1/1956,Y,29203.0,SC,34.0,-81.03,$2.5k - $5k,screening,Non-Hispanic white,,0.0,"al-Jaffer, Awda",N,,,
+25543,9187775,"el-Aboud, Firdaus",7389125,United States,Columbia,7/12/1934,Y,29223.0,SC,34.0,-81.03,$75k - $100k,,Black or African American,10/23/2019,16.0,"Sanchez, Nohemi",N,,,"fashion,politics,art,hunting/fishing,reading"
+25559,5757735,"Roces, Akhilesh",3965247,United States,Columbia,6/18/1940,Y,29229.0,SC,34.0,-81.03,$100k - $250k,institutional,Non-Hispanic white,3/22/2017,1.0,"Kim, Felicia",N,,137.0,"boating/sailing,sports,golf"
+25567,4805538,"Arnold, Raven",9957333,United States,Columbia,1/20/1930,Y,29229.0,SC,34.0,-81.03,$50k - $75K,institutional,Non-Hispanic white,12/13/2016,10.0,"al-Salim, Hamdaan",N,,,
+25784,3540529,"Tran, Makanaalohaonalani",8404329,United States,Goose creek,8/1/1945,Y,29445.0,SC,32.98,-79.99,$100k - $250k,screening,Non-Hispanic white,,0.0,"Yang, Andrew",Y,,149.0,"reading,sports,fashion,health/exercise,wine"
+25793,9831827,"el-Hadi, Sadeeda",8588341,United States,Hollywood,5/31/1925,Y,29449.0,SC,32.75,-80.2,$2.5k - $5k,institutional,Hispanic or Latino,3/17/2019,13.0,"Yang, Andrew",N,,,"fashion,health/exercise"
+25817,4851920,"Newsom, Collin",8725116,United States,Ladson,10/11/1971,Y,29456.0,SC,33.0,-80.1,$5k - $10k,screening,Non-Hispanic white,,,"Bowyer, Ryan",N,,,
+26156,2748620,"el-Madani, Raita",4479728,United States,Greenville,,Y,29615.0,SC,34.83,-82.37,$5k - $10k,institutional,Non-Hispanic white,,40.0,"Kim, Felicia",N,,,golf
+26157,9918276,"Bartole, William",4479728,United States,Greenville,9/6/1931,Y,29615.0,SC,34.83,-82.37,$5k - $10k,screening,Black or African American,2/9/2019,29.0,"al-Mourad, Haajid",,,32.0,
+26595,5359953,"Hergenrider, Emily",3025633,United States,Hilton head island,1/22/1942,Y,29928.0,SC,32.19,-80.74,$25k - $50k,screening,Black or African American,,8.0,"al-Salem, Ma,Roof",N,,,"hunting/fishing,reading"
+26690,6938699,"al-Azizi, Shaahida",7164015,United States,Dacula,10/24/1930,Y,30019.0,GA,33.98,-83.88,$500k - $750k,institutional,Non-Hispanic white,7/8/2019,8.0,"White, Abigail",N,,,"reading,food/dining/cooking,skiing"
+26824,7641524,"Maestas, Aurora",2303399,United States,Cumming,5/28/1979,Y,30040.0,GA,34.2,-84.13,$2.5k - $5k,institutional,Non-Hispanic white,4/17/2019,26.0,"Masters, Deisha",N,,,"golf,skiing,reading,hunting/fishing"
+26899,8106852,"Molina, William",3875899,United States,Lawrenceville,7/24/1944,Y,30044.0,GA,33.94,-83.99,,institutional,Non-Hispanic white,1/29/2018,1.0,"Middleton, Lauren",N,,299.0,hunting/fishing
+27174,9203088,"Morin, Lorena",5396708,United States,Tucker,12/23/1960,Y,30084.0,GA,33.85,-84.22,,institutional,Asian,11/9/2015,13.0,"Tolbert, Yekalo",N,,252.0,"hunting/fishing,skiing,food/dining/cooking,boating/sailing,art"
+27410,3166066,"Campbell, Syed",4977864,United States,Douglasville,7/18/1956,Y,30134.0,GA,33.74,-84.74,,institutional,Black or African American,4/11/2019,,"el-Sawaya, Waseema",N,,,"skiing,hunting/fishing,health/exercise,wine"
+28642,4415482,"Barros, Lyndsey",4614858,United States,Fort oglethorpe,11/2/1936,Y,30742.0,GA,34.92,-85.25,$10k - $25k,screening,Non-Hispanic white,7/26/2018,3.0,"White, Abigail",N,,101.0,sports
+28920,2093293,"Jones, Julia",8897205,United States,Warthen,11/14/1938,Y,31094.0,GA,33.13,-82.79,$25k - $50k,institutional,Asian,3/2/2019,33.0,"Ha, John",N,,,
+28938,5395357,"Littlethunder, Danielle",8072179,United States,Macon,6/26/1943,Y,31206.0,GA,32.83,-83.65,$250k - $500k,institutional,Non-Hispanic white,,17.0,"al-Jaffer, Awda",N,,,"food/dining/cooking,sports,health/exercise"
+29149,9560804,"Ky, Trevon",8747669,United States,Nahunta,8/17/1967,Y,31553.0,GA,31.2,-81.98,$1k - $2.5k,screening,Non-Hispanic white,11/20/2019,,"White, Abigail",,,,"golf,hunting/fishing,reading,fashion,skiing"
+30814,5332600,"Morris, Caitlynn",6652773,United States,Orlando,3/25/1919,Y,32807.0,FL,28.5,-81.37,$10k - $25k,institutional,Non-Hispanic white,9/14/2017,6.0,"Walter, Dianna",N,,,
+30912,1739711,"Simmons, Peter",6780257,United States,Orlando,9/6/1949,Y,32818.0,FL,28.5,-81.37,$5k - $10k,screening,Two or more races,,,"Yang, Andrew",N,,926.0,"boating/sailing,fashion,health/exercise"
+31101,4628449,"Schermer, Jenaer",2158009,United States,Palm bay,4/2/1956,Y,32909.0,FL,27.98,-80.66,$250k - $500k,institutional,Hispanic or Latino,,10.0,"Porras, Marisa",N,,,food/dining/cooking
+31319,1775195,"Quang, Pariss",3016725,United States,Hialeah,,Y,33015.0,FL,25.86,-80.29,$2.5k - $5k,screening,Asian,3/15/2019,,"Masters, Deisha",N,,,"hunting/fishing,health/exercise,politics"
+31333,6019123,"Orbuch, Cody",4908416,United States,Hialeah,9/22/1950,Y,33016.0,FL,25.86,-80.29,$10k - $25k,screening,Non-Hispanic white,4/11/2018,49.0,"Walter, Dianna",Y,,,
+31741,9849377,"Correa, Maria",8706004,United States,Pompano beach,8/16/1961,Y,33073.0,FL,26.23,-80.13,>$1k,institutional,Non-Hispanic white,1/20/2018,23.0,"Yang, Andrew",Y,,314.0,
+31748,5867086,"al-Wakim, Humaidaan",5754525,United States,Pompano beach,8/3/1932,Y,33076.0,FL,26.23,-80.13,$100k - $250k,screening,Black or African American,2/22/2019,12.0,"Kim, Felicia",N,,,health/exercise
+31902,8254164,"Barron, Robert",4346176,United States,Miami,8/11/1969,Y,33142.0,FL,25.77,-80.2,$75k - $100k,screening,Non-Hispanic white,6/9/2018,12.0,"Walter, Dianna",N,,,"hunting/fishing,art,reading"
+32053,5522864,"Cordova, Cesar",4427046,United States,Miami,1/1/1900,Y,33161.0,FL,25.77,-80.2,$10k - $25k,institutional,Non-Hispanic white,10/18/2015,18.0,"Kim, Felicia",N,,718.0,
+32063,7860635,"el-Jafri, Shaheed",8513817,United States,Miami,1/14/1981,Y,33161.0,FL,25.77,-80.2,$25k - $50k,institutional,Hispanic or Latino,2/20/2017,28.0,"Kim, Felicia",N,,,politics
+32182,6950423,"Pierce, Dallas",2731509,United States,Miami,3/31/1951,Y,33176.0,FL,25.77,-80.2,$2.5k - $5k,institutional,Hispanic or Latino,2/21/2016,10.0,"Yang, Andrew",N,,,"boating/sailing,travel,politics"
+32196,2553588,"Mason, Karsen",6504457,United States,Miami,11/26/1933,Y,33176.0,FL,25.77,-80.2,$10k - $25k,screening,Two or more races,,10.0,"Tolbert, Yekalo",N,,,"fashion,hunting/fishing,wine,health/exercise,food/dining/cooking"
+33307,2269792,"Tasker, Tianna",2591815,United States,Tampa,11/11/1954,Y,33607.0,FL,27.95,-82.48,$25k - $50k,screening,Asian,,,"al-Mourad, Haajid",N,,,"reading,travel,boating/sailing,politics,sports"
+33646,2207834,"al-Mir, Sundus",6122767,United States,Seminole,10/17/1946,Y,33772.0,FL,27.84,-82.78,>$1k,screening,Non-Hispanic white,2/23/2019,19.0,"Yang, Andrew",Y,,,"food/dining/cooking,art,boating/sailing,hunting/fishing"
+34815,8517236,"Siminoe, Amber",5994240,United States,Wildwood,2/28/1959,Y,34785.0,FL,28.85,-82.04,$10k - $25k,screening,Non-Hispanic white,9/28/2019,25.0,"White, Abigail",N,0.0,,
+35026,2483343,"Bundy, Morgan",3564029,United States,Childersburg,12/3/1919,Y,35044.0,AL,33.27,-86.35,$2.5k - $5k,screening,Non-Hispanic white,6/12/2017,4.0,"Varelas, Michael",N,,119.0,"art,health/exercise,politics,golf"
+35045,9453735,"el-Kabir, Waatiq",9462529,United States,Cropwell,8/4/1933,Y,35054.0,AL,33.45,-86.34,$75k - $100k,,Black or African American,1/12/2018,31.0,"al-Mourad, Haajid",N,,,"skiing,boating/sailing,cars,art"
+35055,1862324,"Lo, Noah",3226903,United States,Cullman,10/8/1931,Y,35057.0,AL,34.17,-86.83,$25k - $50k,institutional,Non-Hispanic white,12/7/2015,48.0,"Estrada, Jorge",N,,,boating/sailing
+35056,9720038,"Morgan, Maya",3226903,United States,Cullman,9/25/1930,Y,35057.0,AL,34.17,-86.83,$25k - $50k,screening,Asian,7/13/2017,9.0,"Masters, Deisha",Y,,,"hunting/fishing,reading"
+35140,5140926,"el-Waheed, Faalih",5251480,United States,Pinson,3/30/1956,Y,35126.0,AL,33.72,-86.65,$75k - $100k,institutional,Non-Hispanic white,10/23/2018,13.0,"Topper, Kyle",N,,,
+35184,6093015,"Her, Kazong",8373077,United States,Sylacauga,9/14/1940,Y,35151.0,AL,33.17,-86.26,$25k - $50k,screening,Non-Hispanic white,10/2/2017,11.0,"el-Sawaya, Waseema",,0.0,,"hunting/fishing,travel"
+35255,4141770,"Diego, Sarah",7369021,United States,Birmingham,2/26/1922,Y,35206.0,AL,33.52,-86.79,$25k - $50k,institutional,Non-Hispanic white,9/7/2016,7.0,"al-Salim, Hamdaan",Y,,,
+35284,3621996,"Irreza, Florentino",8674028,United States,Birmingham,,Y,35211.0,AL,33.52,-86.79,$2.5k - $5k,screening,Black or African American,7/12/2018,12.0,"Bowyer, Ryan",Y,,87.0,health/exercise
+35335,6192205,"Pena, Bryton",6765486,United States,Birmingham,11/23/1927,Y,35217.0,AL,33.52,-86.79,>$1k,institutional,Non-Hispanic white,10/19/2019,44.0,"Porras, Marisa",N,,,"boating/sailing,politics,cars,hunting/fishing"
+35534,7853343,"Mcclaskey, Danny",3925744,United States,Elkmont,2/3/1933,Y,35620.0,AL,34.92,-86.97,$10k - $25k,institutional,Non-Hispanic white,8/26/2020,,"Topper, Kyle",N,,,"sports,politics,travel"
+35685,9958211,"Montelongo Ponce, Madison",6567932,United States,Huntsville,12/12/1938,Y,35803.0,AL,34.7,-86.62,$50k - $75K,screening,Non-Hispanic white,,,"Walter, Dianna",N,,,"wine,health/exercise"
+35686,7975446,"Oh, Tiffany",6567932,United States,Huntsville,12/23/1937,Y,35803.0,AL,34.7,-86.62,$50k - $75K,institutional,Black or African American,5/8/2016,19.0,"al-Salim, Hamdaan",N,,,cars
+35783,6714759,"Tinajero, Levi",2203599,United States,Guntersville,2/24/1948,Y,35976.0,AL,34.35,-86.27,$500k - $750k,screening,Non-Hispanic white,12/20/2015,13.0,"el-Sawaya, Waseema",N,,,
+35894,4638854,"Flores-Vega, Clara",7802050,United States,Montgomery,7/16/1949,Y,36109.0,AL,32.35,-86.28,$2.5k - $5k,,Non-Hispanic white,8/10/2020,34.0,"Masters, Deisha",N,,,"golf,politics,reading,hunting/fishing"
+35990,6536405,"Doryland, Kevin",9021733,United States,Dothan,11/13/1929,Y,36305.0,AL,31.23,-85.4,$2.5k - $5k,screening,Non-Hispanic white,10/26/2018,11.0,"el-Sawaya, Waseema",N,,,"art,travel,fashion,politics,health/exercise"
+36009,1200158,"Young, Constance",8689179,United States,Elba,1/10/1989,Y,36323.0,AL,31.41,-86.07,$25k - $50k,institutional,Black or African American,,6.0,"al-Jaffer, Awda",N,,,
+36547,2395333,"al-Hakim, Hudhaifa",4693024,United States,Hermitage,5/1/1951,Y,37076.0,TN,36.13,-86.58,$5k - $10k,institutional,Black or African American,3/7/2019,14.0,"Estrada, Jorge",N,,,
+37988,5253655,"Altman, Rani",8530468,United States,Medina,4/12/1953,Y,38355.0,TN,35.8,-88.77,$500k - $750k,institutional,Hispanic or Latino,,40.0,"Walter, Dianna",N,,557.0,"golf,reading,travel"
+38262,4102444,"Mims, Sevaun",8212535,United States,Walls,5/6/1997,Y,38680.0,MS,34.95,-90.13,$25k - $50k,screening,Non-Hispanic white,4/8/2017,10.0,"Estrada, Jorge",N,,,"food/dining/cooking,wine"
+38344,2412611,"el-Abdulla, Sharaf",2662179,United States,Randolph,1/1/1900,Y,38864.0,MS,34.18,-89.16,$1k - $2.5k,screening,Black or African American,6/12/2018,12.0,"Middleton, Lauren",N,,,
+38641,6312452,"el-Dawood, Sultana",5757135,United States,Hattiesburg,,Y,39402.0,MS,31.31,-89.3,$50k - $75K,screening,Non-Hispanic white,3/18/2019,43.0,"al-Hakeem, Haamid",N,,,"skiing,sports,cars,hunting/fishing,art"
+39360,3217066,"Lytle, Andrew",3973711,United States,Berea,4/26/1952,Y,40403.0,KY,37.57,-84.29,$75k - $100k,,Non-Hispanic white,12/23/2017,31.0,"Bowyer, Ryan",Y,0.0,,
+39473,5059032,"Warsame, Christian",4411260,United States,Frankfort,6/27/1943,Y,40601.0,KY,38.19,-84.86,,screening,Non-Hispanic white,,3.0,"Bowyer, Ryan",N,,,"fashion,health/exercise,boating/sailing,food/dining/cooking,hunting/fishing"
+41133,5873784,"Israel, Monaca",4104271,United States,Avon,6/19/1938,Y,44011.0,OH,41.45,-82.02,,screening,Non-Hispanic white,2/8/2017,24.0,"Yang, Andrew",,,,"health/exercise,hunting/fishing,politics,reading,food/dining/cooking"
+41209,1690548,"Lopez Ortega, Casandra",8293315,United States,North ridgeville,10/7/1938,Y,44039.0,OH,41.38,-82.01,$2.5k - $5k,institutional,Hispanic or Latino,10/9/2019,34.0,"Estrada, Jorge",,0.0,66.0,"food/dining/cooking,hunting/fishing,skiing,reading"
+41634,3796662,"Abassi, Simran",2593916,United States,Cleveland,6/20/1943,Y,44130.0,OH,41.47,-81.67,$2.5k - $5k,institutional,Black or African American,12/28/2017,19.0,"White, Abigail",N,,,
+42250,8339504,"Aquino, Diva",5409897,United States,Dover,6/22/1951,Y,44622.0,OH,40.52,-81.47,$75k - $100k,screening,Non-Hispanic white,9/8/2017,2.0,"al-Jaffer, Awda",N,,,"reading,travel,sports,health/exercise"
+42401,8566235,"Wesley, Chayla",5906474,United States,Canton,12/10/1920,Y,44708.0,OH,40.81,-81.37,,screening,Non-Hispanic white,,16.0,"Varelas, Michael",,,,"sports,boating/sailing"
+42464,5508065,"Fermin, Asma",8854954,United States,Ashland,5/24/1942,Y,44805.0,OH,40.86,-82.31,$50k - $75K,screening,Non-Hispanic white,10/22/2016,8.0,"el-Sawaya, Waseema",,,,wine
+42478,3072142,"al-Beshara, Salma",3701181,United States,Berlin heights,7/10/1923,Y,44814.0,OH,41.32,-82.49,$2.5k - $5k,institutional,Non-Hispanic white,,29.0,"al-Salim, Hamdaan",N,,,golf
+42894,4672957,"Melton, Marcos",5631255,United States,Cincinnati,2/15/1918,Y,45211.0,OH,39.09,-84.51,$10k - $25k,screening,Asian,11/26/2018,1.0,"Topper, Kyle",N,,,"sports,wine,reading,golf"
+43081,9787582,"al-Kaber, Ghaaliya",4000234,United States,Cincinnati,11/18/1935,Y,45249.0,OH,39.09,-84.51,$5k - $10k,screening,Non-Hispanic white,9/28/2016,13.0,"al-Mourad, Haajid",N,,5.0,"golf,travel,art,food/dining/cooking"
+43252,2037246,"Torres, Cody",8115379,United States,Dayton,3/5/1952,Y,45404.0,OH,39.77,-84.19,$10k - $25k,institutional,Non-Hispanic white,,33.0,"al-Jaffer, Awda",N,,,skiing
+43346,6636877,"Ismail, Tavishi",5124493,United States,Dayton,6/8/1951,Y,45432.0,OH,39.77,-84.19,,institutional,Black or African American,10/27/2019,14.0,"Ha, John",N,,,
+43451,9546651,"Fuentes Rocha, Jose",3908639,United States,Gallipolis,8/6/1936,Y,45631.0,OH,38.82,-82.19,>$1k,institutional,Black or African American,6/17/2019,2.0,"Tolbert, Yekalo",N,,76.0,"politics,golf,travel,health/exercise,food/dining/cooking"
+43501,7501215,"al-Sharaf, Wadee'a",3781756,United States,Athens,1/24/1953,Y,45701.0,OH,39.32,-82.09,$750k - $1M,screening,Non-Hispanic white,,0.0,"Walter, Dianna",N,,,
+44147,3825742,"Yamada, Joseph",8293501,United States,Indianapolis,,Y,46227.0,IN,39.77,-86.14,$10k - $25k,institutional,Asian,1/24/2019,19.0,"Masters, Deisha",N,,294.0,
+44735,9846236,"Barker, Navro",8233567,United States,Columbia city,11/14/1956,Y,46725.0,IN,41.15,-85.48,$5k - $10k,institutional,Non-Hispanic white,7/25/2017,14.0,"Tolbert, Yekalo",N,0.0,87.0,"reading,sports,boating/sailing"
+45179,6673333,"el-Mustafa, Tharwa",2999729,United States,Eaton,9/23/1930,Y,47338.0,IN,40.34,-85.35,$50k - $75K,screening,Non-Hispanic white,5/6/2019,19.0,"Porras, Marisa",N,,,"health/exercise,golf,politics"
+45570,5419002,"Hairston, Hamdi",5973482,United States,Rensselaer,8/24/1983,Y,47978.0,IN,40.93,-87.14,$1k - $2.5k,,Asian,5/24/2020,5.0,"Varelas, Michael",N,,227.0,"reading,hunting/fishing"
+45669,3870366,"Dealey, Koty",3278892,United States,Marysville,10/14/1951,Y,48040.0,MI,42.91,-82.47,$5k - $10k,screening,Non-Hispanic white,2/9/2017,5.0,"Estrada, Jorge",,,,"boating/sailing,politics,golf,travel"
+45699,3070333,"Mussallem, Nicole",7138598,United States,New baltimore,10/29/1925,Y,48047.0,MI,42.68,-82.73,$1k - $2.5k,institutional,Non-Hispanic white,3/22/2018,15.0,"Walter, Dianna",,,,"wine,art,skiing,food/dining/cooking"
+45862,4342250,"Abeyta, Demetria",8767442,United States,Troy,7/29/1929,Y,48085.0,MI,42.58,-83.14,$50k - $75K,institutional,Hispanic or Latino,11/3/2017,5.0,"Varelas, Michael",N,,427.0,
+45946,8128410,"Rhodes, Caleb",8694879,United States,Ann arbor,9/5/1941,Y,48105.0,MI,42.27,-83.73,$25k - $50k,screening,Hispanic or Latino,2/18/2017,22.0,"Middleton, Lauren",N,,,"skiing,boating/sailing,travel,reading,food/dining/cooking"
+46190,3613381,"Harris, Isis",3814650,United States,Pinckney,1/16/1953,Y,48169.0,MI,42.45,-83.94,$2.5k - $5k,screening,Hispanic or Latino,7/31/2016,7.0,"al-Mourad, Haajid",N,,635.0,"golf,reading,art,cars"
+46659,1269070,"Hill, Christine",5937621,United States,Detroit,7/2/1936,Y,48238.0,MI,42.38,-83.1,$10k - $25k,screening,Non-Hispanic white,8/1/2018,23.0,"Estrada, Jorge",N,,,
+47101,7603027,"Ayala Chavez, Jaqueline",7495012,United States,Swartz creek,6/16/1937,Y,48473.0,MI,42.96,-83.82,$100k - $250k,institutional,Asian,5/29/2019,2.0,"al-Jaffer, Awda",N,0.0,,"health/exercise,boating/sailing,hunting/fishing"
+47141,4517691,"Waldon, Latisha",7949036,United States,Burton,1/18/1959,Y,48519.0,MI,42.99,-83.61,>$1k,institutional,Non-Hispanic white,,23.0,"Yang, Andrew",N,,,"reading,skiing"
+48424,8259845,"Martinez, David",8058963,United States,Alpena,8/27/1938,Y,49707.0,MI,45.07,-83.43,$2.5k - $5k,screening,Non-Hispanic white,6/1/2017,,"Walter, Dianna",N,,,"hunting/fishing,fashion,reading,food/dining/cooking,skiing"
+48955,8364684,"Ironcloud, Isaiah",3562005,United States,Waverly,11/25/1959,Y,50677.0,IA,42.72,-92.46,,institutional,Non-Hispanic white,2/22/2020,25.0,"Tolbert, Yekalo",N,,256.0,
+49466,4408934,"Wallace, Veronica",2983575,United States,Walcott,11/17/1941,Y,52773.0,IA,41.59,-90.77,$100k - $250k,screening,Non-Hispanic white,,12.0,"White, Abigail",N,,,food/dining/cooking
+49679,8119033,"Orozco, Edgar",6692509,United States,Thiensville,8/2/1927,Y,53092.0,WI,43.23,-87.97,$2.5k - $5k,screening,Non-Hispanic white,,19.0,"Estrada, Jorge",Y,,431.0,"hunting/fishing,golf,fashion,reading"
+50498,6035474,"Villalba, Arturo",6923377,United States,Fox lake,3/21/1965,Y,53933.0,WI,43.56,-88.91,$250k - $500k,institutional,Non-Hispanic white,2/18/2019,10.0,"Tolbert, Yekalo",N,0.0,,
+50771,6860332,"Korionoff, Darby",5167313,United States,Gleason,12/29/1962,Y,54435.0,WI,45.3,-89.5,$25k - $50k,institutional,Two or more races,,16.0,"al-Salem, Ma,Roof",N,0.0,,"sports,travel,reading,cars"
+50834,1062937,"Sung, Manezeh",7348281,United States,Stevens point,12/12/1973,Y,54481.0,WI,44.54,-89.56,$2.5k - $5k,institutional,Non-Hispanic white,11/4/2019,5.0,"Walter, Dianna",N,,,
+50844,2405783,"Smith, Jacy",3064968,United States,Wisconsin rapids,7/25/1919,Y,54494.0,WI,44.39,-89.83,$10k - $25k,,Black or African American,,,"Varelas, Michael",Y,,,
+50915,4858763,"Ginn, Frances",4048981,United States,Ettrick,7/6/1980,Y,54627.0,WI,44.16,-91.26,>$1k,screening,Non-Hispanic white,5/20/2016,,"Topper, Kyle",N,1.0,,
+51346,4215278,"el-Jamal, Laaiqa",9016733,United States,Lakeville,1/31/1953,Y,55044.0,MN,44.67,-93.24,>$1k,institutional,Non-Hispanic white,12/19/2018,20.0,"el-Sawaya, Waseema",N,,,hunting/fishing
+51576,2417427,"al-Farha, Sabeeka",1985889,United States,Saint paul,12/13/1998,Y,55123.0,MN,44.94,-93.1,$50k - $75K,institutional,Non-Hispanic white,,2.0,"Kim, Felicia",Y,,,
+52307,1297335,"Maldonado-Espino, Allyzon",3508480,United States,Chisholm,8/30/1981,Y,55719.0,MN,47.48,-92.87,$25k - $50k,screening,Non-Hispanic white,4/20/2016,,"Yang, Andrew",N,,,"art,boating/sailing,wine,hunting/fishing,sports"
+52345,6100969,"Moon, Xuan",4132279,United States,Mountain iron,8/5/1929,Y,55768.0,MN,47.52,-92.62,$100k - $250k,screening,Non-Hispanic white,3/7/2019,3.0,"Kim, Felicia",N,,139.0,
+53100,8912319,"Hernandez, Kevin",2081743,United States,Spearfish,3/31/1944,Y,57783.0,SD,44.48,-103.84,$50k - $75K,screening,Hispanic or Latino,5/10/2019,20.0,"al-Hakeem, Haamid",N,,40.0,politics
+53337,2660187,"Willingham, Ronnie",6498292,United States,Billings,,Y,59105.0,MT,45.87,-108.47,$5k - $10k,screening,Non-Hispanic white,12/2/2016,15.0,"Varelas, Michael",N,,,"travel,reading,fashion,sports,golf"
+53353,2015298,"Waggoner, Michael",4590873,United States,Miles city,4/14/1948,Y,59301.0,MT,46.22,-105.6,$50k - $75K,screening,Non-Hispanic white,2/4/2019,17.0,"al-Jaffer, Awda",,,,food/dining/cooking
+53464,4476004,"Rigsby, Michael",6100228,United States,Deer lodge,6/8/1929,Y,59722.0,MT,46.37,-112.72,$50k - $75K,screening,Non-Hispanic white,,22.0,"al-Salem, Ma,Roof",N,,,"golf,boating/sailing"
+53686,5829462,"al-Bacchus, Aseela",5352669,United States,Des plaines,8/10/1930,Y,60016.0,IL,42.03,-87.9,$75k - $100k,screening,Non-Hispanic white,5/25/2018,8.0,"Walter, Dianna",N,,,
+53839,8583086,"Solis, Elias",7144833,United States,Morton grove,4/27/1937,Y,60053.0,IL,42.04,-87.78,$25k - $50k,,Black or African American,1/23/2019,5.0,"al-Jaffer, Awda",,,,
+53980,8828391,"el-Noor, Mukhtaar",7419608,United States,Skokie,5/18/1931,Y,60077.0,IL,42.03,-87.73,$25k - $50k,screening,Non-Hispanic white,,,"Masters, Deisha",N,,272.0,
+54249,1563319,"Smith, Mondell",9220242,United States,Geneva,7/17/1927,Y,60134.0,IL,41.88,-88.31,$75k - $100k,institutional,Hispanic or Latino,,24.0,"al-Jaffer, Awda",N,,98.0,"food/dining/cooking,skiing"
+54303,2737795,"Mccarty, Selena",9719987,United States,Lombard,11/13/1959,Y,60148.0,IL,41.87,-88.01,>$1k,screening,Non-Hispanic white,,3.0,"el-Sawaya, Waseema",N,,709.0,"fashion,hunting/fishing,reading,travel,cars"
+54353,4061904,"al-Sharifi, Ibtisaama",8680222,United States,River grove,5/8/1989,Y,60171.0,IL,41.92,-87.83,$1k - $2.5k,institutional,Non-Hispanic white,12/19/2016,16.0,"Kim, Felicia",N,,,"skiing,health/exercise"
+54356,9447735,"Bradshaw, Noah",9185832,United States,River grove,2/3/1954,Y,60171.0,IL,41.92,-87.83,$5k - $10k,,Black or African American,1/14/2018,23.0,"Sanchez, Nohemi",N,,396.0,skiing
+54567,2567336,"Heidt, Dylan",2996094,United States,Braidwood,11/13/1961,Y,60408.0,IL,41.26,-88.22,$2.5k - $5k,institutional,Non-Hispanic white,,0.0,"White, Abigail",Y,,,
+54629,3214667,"Monson, Harvey",9480660,United States,Glenwood,4/4/1943,Y,60425.0,IL,41.54,-87.61,$100k - $250k,institutional,Asian,,12.0,"White, Abigail",N,,,"health/exercise,travel,wine,golf"
+54693,5849224,"el-Tamer, Abdul Waahid",9843119,United States,Joliet,3/25/1957,Y,60436.0,IL,41.52,-88.12,$10k - $25k,screening,Black or African American,1/17/2020,10.0,"Estrada, Jorge",N,,,"politics,health/exercise"
+55159,9230610,"Devlin, Demichael",8252942,United States,Lisle,6/19/1984,Y,60532.0,IL,41.79,-88.08,$25k - $50k,screening,Asian,11/15/2017,13.0,"Middleton, Lauren",N,,,
+55163,3260479,"al-Shahin, Aiman",2467107,United States,Montgomery,11/27/1927,Y,60538.0,IL,41.72,-88.34,$75k - $100k,screening,Black or African American,,4.0,"Bowyer, Ryan",N,,,"hunting/fishing,travel,cars"
+55213,3991267,"Sanchez, Connor",5782779,United States,Riverside,9/5/1930,Y,60546.0,IL,41.83,-87.81,$2.5k - $5k,institutional,Hispanic or Latino,,22.0,"Yang, Andrew",N,,,"golf,reading,politics"
+55700,8218549,"Pan, Danial",8967696,United States,Chicago,3/28/1983,Y,60628.0,IL,41.83,-87.68,$10k - $25k,,Non-Hispanic white,,34.0,"White, Abigail",N,,,art
+55805,7447099,"Hanson, Brooke",9851037,United States,Chicago,10/14/1932,Y,60634.0,IL,41.83,-87.68,$10k - $25k,screening,Non-Hispanic white,4/21/2020,25.0,"el-Sawaya, Waseema",,,,"reading,health/exercise"
+55854,1874513,"Joiner, Kelee",9197761,United States,Chicago,12/12/1939,Y,60638.0,IL,41.83,-87.68,$75k - $100k,institutional,Non-Hispanic white,,0.0,"al-Mourad, Haajid",,,,
+56023,9731468,"Williams, Kane",9904510,United States,Chicago,6/30/1998,Y,60647.0,IL,41.83,-87.68,>$1k,screening,Hispanic or Latino,10/15/2015,13.0,"Middleton, Lauren",,,,
+57215,6536944,"Abramson, Sydney",6872719,United States,Decatur,,Y,62521.0,IL,39.85,-88.93,$10k - $25k,,Non-Hispanic white,2/14/2019,5.0,"al-Salim, Hamdaan",N,,,"wine,boating/sailing,fashion,politics"
+57265,9384768,"el-Mahmud, Mazeed",5617974,United States,Beardstown,9/19/1937,Y,62618.0,IL,40.0,-90.41,>$1k,institutional,Asian,,11.0,"Kim, Felicia",N,,,"food/dining/cooking,sports,cars,fashion"
+57582,8037953,"al-Abbasi, Kinaana",3278131,United States,Fenton,4/12/1937,Y,63026.0,MO,38.53,-90.45,$1k - $2.5k,screening,Hispanic or Latino,,12.0,"White, Abigail",N,,85.0,"wine,cars,food/dining/cooking"
+57604,3779409,"al-Lone, Nasreen",3543662,United States,Florissant,7/17/1958,Y,63031.0,MO,38.79,-90.32,$500k - $750k,screening,Non-Hispanic white,1/13/2020,18.0,"al-Salim, Hamdaan",N,,,"cars,reading"
+57671,3419398,"Anderson, Candace",6659982,United States,Imperial,8/13/1974,Y,63052.0,MO,38.36,-90.37,,screening,Non-Hispanic white,12/6/2019,19.0,"Yang, Andrew",N,,,travel
+57803,5992160,"Zito, Jose",3496513,United States,Saint louis,3/6/1935,Y,63116.0,MO,38.63,-90.24,$2.5k - $5k,screening,Hispanic or Latino,10/25/2015,,"al-Mourad, Haajid",N,,,
+58093,5472352,"Huang, Rasarag",4905003,United States,Saint charles,8/10/1952,Y,63304.0,MO,38.79,-90.51,$100k - $250k,screening,Non-Hispanic white,9/26/2018,12.0,"Tolbert, Yekalo",N,,,"reading,sports,hunting/fishing,health/exercise,art"
+58705,1685204,"Wright, Desirelle",6622810,United States,Saint joseph,1/30/1953,Y,64505.0,MO,39.76,-94.85,,,Non-Hispanic white,7/8/2016,,"Yang, Andrew",,,,"food/dining/cooking,fashion"
+58756,6930930,"Nguyen, Sarah",6922080,United States,Rich hill,12/20/1935,Y,64779.0,MO,38.09,-94.36,$25k - $50k,screening,Non-Hispanic white,8/16/2018,3.0,"White, Abigail",,,,"wine,politics,art"
+59421,4921122,"Berg, Skye",5997386,United States,Leawood,4/1/1997,Y,66209.0,KS,38.9,-94.68,$1k - $2.5k,screening,Non-Hispanic white,9/26/2018,,"Bowyer, Ryan",N,0.0,,"art,cars,fashion"
+59439,1497825,"Cartwright, Joseph",4566552,United States,Overland park,2/17/1942,Y,66212.0,KS,38.9,-94.68,$250k - $500k,screening,Non-Hispanic white,,3.0,"Yang, Andrew",N,,,"wine,health/exercise"
+59643,7984724,"Galasso, Tyson",5687772,United States,Concordia,5/18/1952,Y,66901.0,KS,39.57,-97.66,$75k - $100k,institutional,Non-Hispanic white,12/26/2017,34.0,"al-Jaffer, Awda",N,,,
+59666,4197758,"Rape, Michael",4898835,United States,Clearwater,10/24/1933,Y,67026.0,KS,37.5,-97.5,$10k - $25k,screening,Non-Hispanic white,6/5/2018,10.0,"al-Salem, Ma,Roof",,,286.0,
+60182,6272267,"Medina, Alexis",3390393,United States,Omaha,10/11/1974,Y,68137.0,NE,41.26,-96.01,,screening,Non-Hispanic white,1/10/2020,15.0,"Porras, Marisa",N,,439.0,"boating/sailing,cars,hunting/fishing,politics,travel"
+60350,5592957,"Runningbear-Paul, Jaelyn",3903436,United States,Norfolk,8/8/1929,Y,68701.0,NE,42.03,-97.41,>$1k,screening,Black or African American,3/7/2019,43.0,"Bowyer, Ryan",Y,,,"hunting/fishing,boating/sailing"
+60470,6810107,"Amaya Granados, Jesus",3451223,United States,Ogallala,12/19/1957,Y,69153.0,NE,41.13,-101.72,$10k - $25k,institutional,Non-Hispanic white,12/2/2017,25.0,"Bowyer, Ryan",N,,,"hunting/fishing,politics,golf,art"
+60709,7052903,"Alarid, John-Wesley",4875405,United States,New orleans,11/20/1925,Y,70119.0,LA,30.06,-89.93,$1k - $2.5k,institutional,Non-Hispanic white,6/4/2019,3.0,"al-Salim, Hamdaan",N,,,"sports,fashion,health/exercise,art"
+60801,8925565,"el-Sulaiman, Ramza",5303657,United States,Houma,1/6/1931,Y,70360.0,LA,29.57,-90.7,$1k - $2.5k,screening,Non-Hispanic white,3/10/2018,30.0,"al-Salem, Ma,Roof",N,,,boating/sailing
+61350,8617934,"Curtis, Ayesha",3074576,United States,Baton rouge,,Y,70809.0,LA,30.44,-91.12,$10k - $25k,screening,Two or more races,4/3/2019,,"al-Salem, Ma,Roof",N,,,
+61378,6184072,"Amos White, Alyssa",6962430,United States,Baton rouge,12/28/1935,Y,70814.0,LA,30.44,-91.12,$10k - $25k,screening,Non-Hispanic white,5/5/2019,31.0,"Masters, Deisha",N,,,
+61657,1742836,"Pham, Noah",6258272,United States,West monroe,9/20/1995,Y,71291.0,LA,32.51,-92.14,$100k - $250k,institutional,Non-Hispanic white,,9.0,"Topper, Kyle",N,,69.0,
+61737,1670627,"Valle, Brittany",7016286,United States,Leesville,10/5/1951,Y,71446.0,LA,31.13,-93.27,$500k - $750k,institutional,Non-Hispanic white,9/1/2017,6.0,"Kim, Felicia",,,,"boating/sailing,hunting/fishing,health/exercise"
+61871,2882247,"al-Basa, Nazeeha",7801405,United States,Hot springs national park,2/6/1977,Y,71913.0,AR,34.5,-93.05,$10k - $25k,screening,Hispanic or Latino,6/17/2016,2.0,"Estrada, Jorge",,,815.0,"health/exercise,reading,art,golf"
+61938,1172303,"Navarro, David",7158618,United States,Bryant,2/22/1944,Y,72022.0,AR,34.61,-92.49,$10k - $25k,screening,Non-Hispanic white,,30.0,"al-Salem, Ma,Roof",N,,,"skiing,reading,health/exercise"
+62583,2296311,"Archambault, Michael",1922280,United States,Edmond,4/30/1965,Y,73034.0,OK,35.67,-97.41,$10k - $25k,institutional,Native Americans or Alska Natives,11/5/2019,4.0,"al-Mourad, Haajid",N,,,
+63122,2441504,"Brown, Brandon",9565315,United States,Broken arrow,,Y,74014.0,OK,36.03,-95.78,$750k - $1M,institutional,Non-Hispanic white,8/4/2019,25.0,"Topper, Kyle",,,344.0,
+63128,2305541,"Roth, Swaysen",3904710,United States,Catoosa,1/23/1936,Y,74015.0,OK,36.18,-95.76,>$1k,institutional,Non-Hispanic white,,23.0,"al-Mourad, Haajid",N,,,
+63673,8967494,"Lundeen, Haley",3869131,United States,Rockwall,10/5/1984,Y,75032.0,TX,32.92,-96.45,$500k - $750k,institutional,Non-Hispanic white,6/8/2019,1.0,"el-Sawaya, Waseema",N,,522.0,"wine,sports,hunting/fishing"
+63945,7142211,"Quinn Carrillo, Jafet",9028832,United States,Little elm,,Y,75068.0,TX,33.16,-96.93,>$1k,screening,Hispanic or Latino,7/30/2019,4.0,"Topper, Kyle",N,,,
+64266,7418349,"Bost, Savannah",4773168,United States,Mesquite,12/23/1922,Y,75150.0,TX,32.76,-96.59,>$1k,institutional,Black or African American,10/18/2019,10.0,"al-Salem, Ma,Roof",,,,
+65179,9855091,"Setinc, Ethan",2741323,United States,Arlington,5/16/1939,Y,76016.0,TX,32.69,-97.12,$10k - $25k,screening,Non-Hispanic white,10/25/2019,2.0,"Masters, Deisha",N,1.0,,"cars,hunting/fishing,golf,fashion,skiing"
+65578,8699523,"el-Akram, Sameera",2806626,United States,Fort worth,5/28/1950,Y,76132.0,TX,32.75,-97.33,$5k - $10k,institutional,Non-Hispanic white,1/5/2017,6.0,"Sanchez, Nohemi",Y,0.0,,"art,wine,golf,boating/sailing,sports"
+65761,8873280,"Mondragon, Kimberly",8865993,United States,Keller,5/14/1977,Y,76248.0,TX,32.93,-97.22,$75k - $100k,screening,Non-Hispanic white,12/3/2019,41.0,"al-Salem, Ma,Roof",N,,,"art,travel,sports"
+66187,5602855,"Aguilar, Julianna",9303053,United States,Houston,6/13/1931,Y,77013.0,TX,29.76,-95.38,$75k - $100k,screening,Black or African American,,34.0,"Middleton, Lauren",N,,,
+66290,9272970,"Cowan, Florina",9102293,United States,Houston,12/9/1993,Y,77029.0,TX,29.76,-95.38,$250k - $500k,screening,Non-Hispanic white,,0.0,"Varelas, Michael",N,,915.0,"cars,skiing"
+66415,3872103,"Davis, Mersadez",5580628,United States,Houston,4/10/1945,Y,77042.0,TX,29.76,-95.38,$250k - $500k,screening,Non-Hispanic white,,0.0,"al-Salem, Ma,Roof",Y,,404.0,
+66769,6092470,"Groves, Alysha",3688217,United States,Houston,2/3/1983,Y,77084.0,TX,29.76,-95.38,$2.5k - $5k,institutional,Native Hawaiians and Other Pacific Islanders,2/28/2017,15.0,"al-Salem, Ma,Roof",,,,"health/exercise,politics,food/dining/cooking,skiing"
+66875,4089345,"Lehi, Justin",5744819,United States,Houston,2/25/1966,Y,77093.0,TX,29.76,-95.38,$2.5k - $5k,institutional,Non-Hispanic white,5/12/2019,1.0,"al-Jaffer, Awda",N,,,
+66892,3245353,"al-Saeed, Waddaah",4010750,United States,Houston,10/10/1933,Y,77095.0,TX,29.76,-95.38,$75k - $100k,screening,Non-Hispanic white,,36.0,"el-Sawaya, Waseema",N,,,"art,sports,health/exercise,food/dining/cooking"
+66953,1870963,"Martinez, Shelby",8411566,United States,Montgomery,3/9/1935,Y,77316.0,TX,30.39,-95.69,$10k - $25k,institutional,Non-Hispanic white,6/19/2018,31.0,"Varelas, Michael",N,,,"food/dining/cooking,health/exercise,art,travel,sports"
+67003,2768261,"Howard, Micah",6079833,United States,Huntsville,11/25/1930,Y,77340.0,TX,30.71,-95.54,$50k - $75K,institutional,Non-Hispanic white,5/30/2019,,"Topper, Kyle",N,,,"art,wine,hunting/fishing,reading"
+67473,1805494,"Bruff, Delaney",9350198,United States,Pasadena,,Y,77505.0,TX,29.66,-95.15,$10k - $25k,screening,Asian,10/9/2017,25.0,"Yang, Andrew",N,,,"cars,wine,skiing"
+67818,4354244,"Garner, Jajira",7133255,United States,Port neches,1/5/1943,Y,77651.0,TX,29.97,-93.94,$5k - $10k,screening,Non-Hispanic white,,6.0,"al-Mourad, Haajid",N,,,"cars,hunting/fishing,golf,skiing"
+68148,1195764,"Earnest, Rillard",7452858,United States,Laredo,5/27/1919,Y,78045.0,TX,27.53,-99.48,,screening,Non-Hispanic white,6/28/2020,1.0,"al-Jaffer, Awda",N,,,"travel,reading,wine,fashion"
+68781,9274163,"Clift, Julia",4683422,United States,Rockport,,Y,78382.0,TX,28.04,-97.05,$500k - $750k,screening,Non-Hispanic white,11/21/2017,43.0,"al-Mourad, Haajid",,,,
+68831,2341637,"Tora, William",2943916,United States,Corpus christi,2/28/1946,Y,78411.0,TX,27.8,-97.39,$2.5k - $5k,,Hispanic or Latino,11/20/2019,21.0,"Porras, Marisa",N,,,sports
+68867,2265981,"Lee, Martin",6256784,United States,Corpus christi,,Y,78414.0,TX,27.8,-97.39,$5k - $10k,screening,Non-Hispanic white,,4.0,"Walter, Dianna",N,,24.0,
+69465,2304901,"Martinez, Andrea",4508207,United States,Austin,7/6/1933,Y,78721.0,TX,30.26,-97.74,$75k - $100k,institutional,Hispanic or Latino,11/11/2019,35.0,"Yang, Andrew",N,,867.0,
+70078,3768734,"Smith, Alondra",5317133,United States,Midland,3/13/1919,Y,79707.0,TX,32.02,-102.1,$5k - $10k,screening,Hispanic or Latino,8/10/2017,2.0,"al-Salim, Hamdaan",Y,,,reading
+70090,9350420,"Archuleta, Omar",3027303,United States,Big spring,1/19/1953,Y,79720.0,TX,32.24,-101.47,$50k - $75K,screening,Black or African American,,16.0,"Yang, Andrew",N,,,"art,politics,wine,reading,food/dining/cooking"
+70252,5334592,"Wilson, Nathanael",3769763,United States,El paso,12/22/1946,Y,79912.0,TX,31.84,-106.43,$10k - $25k,screening,Hispanic or Latino,10/17/2018,13.0,"Masters, Deisha",N,,,"wine,sports,boating/sailing,skiing"
+71302,1080219,"Register, Breanna",3765433,United States,Berthoud,1/1/1972,Y,80513.0,CO,40.3,-105.08,$1k - $2.5k,screening,Non-Hispanic white,2/26/2018,34.0,"Ha, John",N,,53.0,"politics,cars"
+71355,2193976,"Mcgowan, Blain",5642745,United States,Fort collins,11/30/1956,Y,80525.0,CO,40.55,-105.06,$100k - $250k,,Non-Hispanic white,2/20/2017,,"Kim, Felicia",N,,,"sports,skiing,cars,politics,boating/sailing"
+71965,2587607,"White, Eric",5962411,United States,Casper,8/20/1940,Y,82601.0,WY,42.83,-106.32,$10k - $25k,institutional,Non-Hispanic white,10/22/2015,14.0,"Kim, Felicia",Y,,,"health/exercise,food/dining/cooking,art,skiing"
+72383,5497839,"Ryen, Luna",6441441,United States,Coeur d alene,,Y,83814.0,ID,47.59,-116.91,$75k - $100k,institutional,Black or African American,4/29/2016,18.0,"al-Jaffer, Awda",N,,129.0,"sports,golf,wine,hunting/fishing,politics"
+72981,9820355,"Mihalicz, Randall",3053829,United States,Salt lake city,10/5/1981,Y,84128.0,UT,40.7,-112.05,$25k - $50k,,Non-Hispanic white,4/23/2019,20.0,"Bowyer, Ryan",,,,"cars,hunting/fishing,reading"
+73059,5387755,"Smith, Alexander",6730964,United States,Ogden,5/18/1956,Y,84404.0,UT,41.24,-112.13,$750k - $1M,,Non-Hispanic white,,16.0,"Tolbert, Yekalo",N,,497.0,"boating/sailing,health/exercise,skiing"
+73193,1754006,"Merz, Adnan",7898961,United States,Saint george,7/29/1943,Y,84770.0,UT,37.18,-113.6,$50k - $75K,screening,Non-Hispanic white,,,"el-Sawaya, Waseema",N,,,"art,fashion,skiing,reading"
+73255,8423018,"Ponce, Guillermo",8970160,United States,Phoenix,5/8/1935,Y,85009.0,AZ,33.44,-112.13,$50k - $75K,screening,Black or African American,10/31/2016,27.0,"Masters, Deisha",N,,,fashion
+73278,5066082,"Blackman, Jaylyn",9054278,United States,Phoenix,6/19/1978,Y,85015.0,AZ,33.5,-112.1,>$1k,screening,Non-Hispanic white,2/28/2019,5.0,"Porras, Marisa",,,,cars
+73391,8515262,"al-Abood, Waseef",9669752,United States,Phoenix,8/16/1939,Y,85029.0,AZ,33.59,-112.1,$25k - $50k,institutional,Non-Hispanic white,4/23/2017,26.0,"Estrada, Jorge",Y,,,"fashion,boating/sailing,hunting/fishing,politics,wine"
+73768,5742485,"Kiatoukaysi, Saleel",5573307,United States,Chandler,7/16/1931,Y,85249.0,AZ,33.24,-111.78,$10k - $25k,screening,Non-Hispanic white,4/29/2018,7.0,"al-Jaffer, Awda",N,,,"reading,politics"
+73890,1993222,"Mortimer, Jeffrey",6150460,United States,Tempe,5/15/1954,Y,85282.0,AZ,33.4,-111.92,$2.5k - $5k,screening,Black or African American,,1.0,"al-Salim, Hamdaan",N,,,"politics,cars,travel,golf,food/dining/cooking"
+74287,2469236,"el-Massoud, Arshad",6684748,United States,Avondale,6/20/1952,Y,85392.0,AZ,33.47,-112.29,$5k - $10k,institutional,Black or African American,5/14/2018,10.0,"Middleton, Lauren",N,0.0,,"hunting/fishing,boating/sailing"
+74693,9236656,"Byrd, Tyler",6608120,United States,Flagstaff,5/16/1946,Y,86004.0,AZ,35.29,-111.32,$100k - $250k,screening,Non-Hispanic white,5/18/2020,26.0,"Sanchez, Nohemi",N,,694.0,"golf,politics,health/exercise"
+75641,2308098,"Lauman, Deonte",6192127,United States,Las vegas,2/23/1967,Y,89117.0,NV,36.14,-115.27,$10k - $25k,screening,Non-Hispanic white,12/13/2019,4.0,"Walter, Dianna",N,,,
+75681,3042959,"Stephen, Donald",3067881,United States,Las vegas,1/4/1991,Y,89121.0,NV,36.12,-115.08,$50k - $75K,institutional,Non-Hispanic white,12/4/2016,28.0,"Masters, Deisha",N,,502.0,
+75795,6860894,"Galvan, Anthony",7772691,United States,Las vegas,12/18/1936,Y,89131.0,NV,36.3,-115.24,$5k - $10k,screening,Hispanic or Latino,,,"al-Mourad, Haajid",,,,"reading,health/exercise,hunting/fishing,boating/sailing"
+77346,8043682,"Dhakal, Sovanara",2728789,United States,Buena park,2/19/1972,Y,90621.0,CA,33.87,-117.99,$50k - $75K,,Non-Hispanic white,,0.0,"al-Jaffer, Awda",N,,,"cars,fashion"
+77701,3850542,"Adams, Erik",7861563,United States,Long beach,1/31/1940,Y,90805.0,CA,33.86,-118.18,$25k - $50k,screening,Non-Hispanic white,1/5/2017,28.0,"Sanchez, Nohemi",N,,,"politics,golf,travel"
+77777,5222317,"Tuttle, Robert",5220873,United States,Long beach,2/13/1939,Y,90814.0,CA,33.77,-118.14,$100k - $250k,institutional,Non-Hispanic white,6/18/2017,2.0,"al-Salim, Hamdaan",N,,,"travel,reading,food/dining/cooking"
+78003,6371706,"Arellano, Daniel",8709000,United States,Agoura hills,4/11/1938,Y,91301.0,CA,34.12,-118.76,$250k - $500k,,Non-Hispanic white,11/16/2017,18.0,"Topper, Kyle",N,,,golf
+78024,3873790,"el-Abraham, Sultan",5047510,United States,Canoga park,6/8/1931,Y,91304.0,CA,34.22,-118.59,$10k - $25k,institutional,Hispanic or Latino,,14.0,"Estrada, Jorge",N,,,"wine,skiing,fashion"
+78046,3770581,"Schultz, Zachary",3291817,United States,Chatsworth,1/16/1942,Y,91311.0,CA,34.28,-118.61,$75k - $100k,institutional,Hispanic or Latino,,1.0,"el-Sawaya, Waseema",N,,,"hunting/fishing,politics,sports"
+78875,7721161,"Ellis, Carsen",1970408,United States,Monterey park,1/24/1952,Y,91754.0,CA,34.05,-118.14,$25k - $50k,institutional,Non-Hispanic white,6/9/2018,2.0,"al-Jaffer, Awda",N,,,
+79044,6614794,"Liang, Brandon",7253781,United States,Temple city,5/10/1964,Y,91780.0,CA,34.1,-118.05,$10k - $25k,screening,Hispanic or Latino,6/15/2017,1.0,"Bowyer, Ryan",N,,,
+79371,9575163,"Mossholder, Andrea",6586260,United States,El cajon,12/24/1948,Y,92021.0,CA,32.84,-116.88,$10k - $25k,,Native Americans or Alska Natives,,0.0,"Porras, Marisa",,,,"health/exercise,wine"
+79686,4312895,"Martinez, Taylor",9135654,United States,San diego,9/14/1959,Y,92104.0,CA,32.73,-117.12,$50k - $75K,screening,Black or African American,,19.0,"Porras, Marisa",Y,,,
+80383,2008859,"Serna, Shaelynn",6381255,United States,Hesperia,2/15/1955,Y,92344.0,CA,34.39,-117.39,$25k - $50k,institutional,Black or African American,7/9/2019,35.0,"el-Sawaya, Waseema",Y,,,"food/dining/cooking,golf"
+81415,8431476,"Tatum Clardy, Jordahn",2242862,United States,Fountain valley,8/14/1956,Y,92708.0,CA,33.71,-117.94,$25k - $50k,,Hispanic or Latino,8/23/2017,13.0,"Topper, Kyle",N,,960.0,
+81683,2098717,"el-Hosein, Majdiyya",3694511,United States,Orange,12/7/1945,Y,92865.0,CA,33.83,-117.85,$500k - $750k,institutional,Non-Hispanic white,12/23/2016,7.0,"Yang, Andrew",N,,,"fashion,reading,travel,wine,politics"
+82285,3854448,"Nguyen, Diane",2279021,United States,Los osos,1/24/1932,Y,93402.0,CA,35.29,-120.81,$10k - $25k,institutional,Non-Hispanic white,7/22/2016,27.0,"Masters, Deisha",,,,"fashion,wine"
+82945,1798553,"Abfalter, Sage",8335596,United States,Daly city,6/22/1933,Y,94015.0,CA,37.67,-122.47,$2.5k - $5k,screening,Non-Hispanic white,4/10/2017,8.0,"Porras, Marisa",,0.0,,"politics,golf"
+82961,8178157,"al-Nasr, Shafeeqa",4465076,United States,Menlo park,7/8/1953,Y,94025.0,CA,37.45,-122.17,,screening,Non-Hispanic white,4/22/2017,16.0,"Bowyer, Ryan",N,,129.0,
+83588,3416644,"Padilla, Jeffrey",8837857,United States,Brentwood,,Y,94513.0,CA,37.87,-121.68,$10k - $25k,screening,Hispanic or Latino,11/9/2017,20.0,"Tolbert, Yekalo",Y,,,"sports,cars"
+84078,3585435,"Hartman, Tyler",9801247,United States,Pleasanton,10/21/1928,Y,94588.0,CA,37.67,-121.93,$25k - $50k,institutional,Black or African American,6/5/2019,,"al-Salem, Ma,Roof",N,,,"food/dining/cooking,art"
+84189,4225200,"Martinez, Shelby",5770972,United States,Oakland,9/3/1966,Y,94605.0,CA,37.75,-122.13,$5k - $10k,institutional,Non-Hispanic white,9/22/2018,20.0,"Estrada, Jorge",N,,,"skiing,fashion,politics,boating/sailing"
+85060,1305940,"al-Kazemi, Safaaa",5102326,United States,Stockton,6/9/1949,Y,95210.0,CA,38.02,-121.3,$750k - $1M,screening,Non-Hispanic white,11/14/2018,6.0,"Estrada, Jorge",N,,,
+85329,1647390,"Elliott, Tyler",5136864,United States,Turlock,12/23/1944,Y,95380.0,CA,37.47,-120.85,$50k - $75K,,Non-Hispanic white,,0.0,"Estrada, Jorge",N,,,
+85540,6830827,"el-Huq, Haamida",3923902,United States,Carmichael,7/3/1943,Y,95608.0,CA,38.62,-121.32,$500k - $750k,institutional,Asian,,0.0,"el-Sawaya, Waseema",Y,,,
+85802,5552515,"Hearns, Devin",2912215,United States,Vacaville,11/11/1937,Y,95687.0,CA,38.35,-121.93,>$1k,institutional,Non-Hispanic white,12/6/2016,9.0,"el-Sawaya, Waseema",N,,,
+85935,3663198,"Janzen, Randy",2753987,United States,Sacramento,9/23/1929,Y,95819.0,CA,38.56,-121.43,$2.5k - $5k,institutional,Hispanic or Latino,,0.0,"el-Sawaya, Waseema",N,,828.0,
+86024,5125479,"Sedillo, Dominick",8886125,United States,Sacramento,12/30/1971,Y,95828.0,CA,38.48,-121.4,$25k - $50k,,Hispanic or Latino,4/16/2018,3.0,"al-Salem, Ma,Roof",Y,,777.0,food/dining/cooking
+86159,7614226,"el-Radi, Taamira",3086803,United States,Live oak,4/13/1971,Y,95953.0,CA,39.23,-121.78,$75k - $100k,screening,Non-Hispanic white,6/19/2017,8.0,"el-Sawaya, Waseema",Y,,244.0,"food/dining/cooking,health/exercise,skiing,boating/sailing,travel"
+86364,4249100,"Warren, Caleb",3357585,United States,Aiea,12/11/1941,Y,96701.0,HI,21.38,-157.92,$1M - $2.5M,screening,Non-Hispanic white,7/11/2018,5.0,"al-Hakeem, Haamid",N,,,travel
+86413,1868292,"Crawford, Peter",1943673,United States,Hilo,8/21/1981,Y,96720.0,HI,19.69,-155.08,$25k - $50k,screening,Hispanic or Latino,6/2/2019,18.0,"Yang, Andrew",Y,,,
+87060,5086212,"Zhou, Sarah",8257976,United States,Newberg,5/22/1932,Y,97132.0,OR,45.32,-122.98,,institutional,Non-Hispanic white,,35.0,"al-Salim, Hamdaan",N,,679.0,"food/dining/cooking,cars,health/exercise,golf"
+87343,8132028,"Begay, Tawnie",7381683,United States,Portland,7/3/1925,Y,97239.0,OR,45.48,-122.69,$5k - $10k,screening,Asian,9/1/2019,14.0,"Bowyer, Ryan",N,,,
+87382,2003126,"Martinez, Nicholas",3863248,United States,Salem,7/1/1995,Y,97303.0,OR,45.01,-123.01,$50k - $75K,institutional,Non-Hispanic white,,,"Middleton, Lauren",N,,,
+87547,2046946,"Dock, Dontae",8000538,United States,Eugene,11/21/1918,Y,97405.0,OR,43.92,-123.08,$10k - $25k,institutional,Black or African American,7/22/2019,33.0,"Topper, Kyle",N,,170.0,"hunting/fishing,fashion,skiing,cars,sports"
+88006,4634594,"al-Harron, Waseema",5018699,United States,Issaquah,11/10/1941,Y,98029.0,WA,47.55,-122.0,$10k - $25k,screening,Non-Hispanic white,2/17/2016,27.0,"al-Hakeem, Haamid",N,,952.0,
+88065,8066456,"Jeon, Phoebe",7282915,United States,Kirkland,1/28/1932,Y,98034.0,WA,47.72,-122.2,,institutional,Black or African American,1/24/2016,15.0,"al-Salim, Hamdaan",N,,,"travel,reading,sports,boating/sailing,food/dining/cooking"
+88214,9248465,"Kershner, Sara",2105625,United States,Snoqualmie,6/26/1945,Y,98065.0,WA,47.53,-121.8,$2.5k - $5k,screening,Non-Hispanic white,,3.0,"Kim, Felicia",N,,136.0,reading
+88338,3825350,"Vasquez, Isaac",2779600,United States,Bainbridge island,5/25/1940,Y,98110.0,WA,47.64,-122.53,$2.5k - $5k,screening,Black or African American,12/17/2018,24.0,"el-Sawaya, Waseema",N,,469.0,"hunting/fishing,cars,fashion"
+88404,6444859,"Nimmons, Jordan",4268828,United States,Seattle,3/16/1923,Y,98118.0,WA,47.54,-122.27,$50k - $75K,institutional,Black or African American,,,"Ha, John",N,,,
+88468,2201454,"Bernal, Miraya",5442811,United States,Seattle,3/30/1940,Y,98146.0,WA,47.49,-122.36,$5k - $10k,institutional,Non-Hispanic white,2/18/2019,17.0,"Tolbert, Yekalo",N,,,"hunting/fishing,politics"
+89238,5819716,"Yazzie, Courtney",4473593,United States,Goldendale,12/31/1970,Y,98620.0,WA,45.84,-120.76,$25k - $50k,institutional,Hispanic or Latino,5/6/2018,19.0,"al-Salem, Ma,Roof",Y,0.0,,"art,sports,health/exercise,reading,food/dining/cooking"
+89508,5511911,"Chu, Jesse",5396212,United States,Sunnyside,12/4/1963,Y,98944.0,WA,46.44,-119.91,$50k - $75K,screening,Asian,11/18/2018,30.0,"al-Hakeem, Haamid",N,,,
+89524,1326295,"al-Mussa, Azhaar",5118215,United States,White swan,10/27/1942,Y,98952.0,WA,46.36,-120.78,$2.5k - $5k,institutional,Hispanic or Latino,7/30/2020,23.0,"Topper, Kyle",N,,,"wine,boating/sailing,health/exercise"
+90133,1663272,"Tesfai, Aesha",1010863,Bangladesh,Chittagong,9/11/1997,Y,,,,,$2.5k - $5k,institutional,Black or African American,4/7/2019,29.0,"al-Salem, Ma,Roof",N,0.0,159.0,"cars,travel"
+90177,5644706,"Dinh, Aimee",1014522,Bangladesh,Chittagong,2/16/1919,Y,,,,,$25k - $50k,,Black or African American,10/4/2019,33.0,"Bowyer, Ryan",N,,635.0,"reading,food/dining/cooking,travel"
+90604,7275501,"Buck, Monty",1052876,Brazil,Brasília,1/19/1965,Y,,,,,$1k - $2.5k,screening,Hispanic or Latino,5/31/2019,39.0,"al-Jaffer, Awda",N,,,"skiing,fashion"
+90655,1547271,"Chu, Sione",1058966,Brazil,Brasília,3/19/1931,Y,,,,,$5k - $10k,institutional,Non-Hispanic white,8/23/2018,,"el-Sawaya, Waseema",,,,travel
+90868,5884620,"Johnson, Jessica",1077384,Brazil,Rio de Janeiro,4/20/1934,Y,,,,,$75k - $100k,screening,Non-Hispanic white,7/1/2019,0.0,"Walter, Dianna",,,,skiing
+91090,7823746,"Saeed, Lynn",1100735,Brazil,São Paulo,6/13/1967,Y,,,,,$25k - $50k,screening,Hispanic or Latino,1/29/2016,31.0,"Walter, Dianna",Y,,,art
+91649,8438923,"al-Jafri, Sham'a",1156169,China,Beijing,,Y,,,,,$25k - $50k,,Non-Hispanic white,10/4/2016,22.0,"Ha, John",N,,41.0,"sports,wine"
+91988,9603556,"Johnson, Anthony",1185024,China,Beijing,11/28/1943,Y,,,,,,screening,Non-Hispanic white,4/17/2017,33.0,"al-Mourad, Haajid",N,,,"art,health/exercise,golf,hunting/fishing,wine"
+92213,7110846,"Carrejo, Tyler",1205406,China,Beijing,11/18/1948,Y,,,,,$25k - $50k,institutional,Hispanic or Latino,6/19/2019,1.0,"Bowyer, Ryan",N,0.0,,
+92829,3307558,"Jones, Lance",1261921,China,Beijing,1/1/1949,Y,,,,,$75k - $100k,screening,Non-Hispanic white,4/4/2018,,"Walter, Dianna",N,,,"fashion,wine,art,food/dining/cooking"
+92842,1606287,"Harton, Laura",1263653,China,Beijing,7/16/1931,Y,,,,,$25k - $50k,,Non-Hispanic white,5/7/2018,42.0,"Sanchez, Nohemi",N,,,"cars,fashion,wine"
+93059,8130216,"Munoz Tobon, Shelby",1283533,China,Shanghai,1/7/1934,Y,,,,,$75k - $100k,institutional,Non-Hispanic white,11/12/2015,,"al-Jaffer, Awda",N,,,"food/dining/cooking,wine,travel"
+93131,7727600,"al-Selim, Kawthar",1290400,China,Shanghai,10/12/1944,Y,,,,,$50k - $75K,screening,Hispanic or Latino,2/26/2019,,"al-Salim, Hamdaan",N,,,"politics,skiing,wine,health/exercise"
+93359,3736049,"Outhouse, Zakkary",1312705,China,Shanghai,1/29/1949,Y,,,,,,screening,Non-Hispanic white,,0.0,"Ha, John",,,224.0,
+93941,6887797,"Romero, Aaron",1368520,China,Shanghai,7/22/1930,Y,,,,,$10k - $25k,screening,Non-Hispanic white,,6.0,"el-Sawaya, Waseema",N,,,
+94038,7818831,"Plunkett-Eliott, Faith",1377349,China,Shanghai,3/16/1947,Y,,,,,$500k - $750k,screening,Asian,7/4/2017,31.0,"Walter, Dianna",N,,,art
+94050,2488308,"Lopez, Dominic",1378332,China,Shanghai,1/19/1926,Y,,,,,>$1k,institutional,Hispanic or Latino,3/2/2016,9.0,"Sanchez, Nohemi",N,,62.0,"reading,politics,sports"
+94204,1470566,"Blaylock, Mierren",1393503,China,Shanghai,9/9/1958,Y,,,,,$750k - $1M,screening,Non-Hispanic white,,,"Yang, Andrew",N,,648.0,politics
+94893,4419364,"Perales, Rachel",1458391,China,Shenzhen,5/21/1918,Y,,,,,$75k - $100k,institutional,Black or African American,,14.0,"Topper, Kyle",N,,,"skiing,politics"
+95003,7326557,"Frias Aguirre, Jorge",1468723,China,Shenzhen,2/17/1934,Y,,,,,$1k - $2.5k,institutional,Two or more races,,25.0,"Bowyer, Ryan",N,0.0,444.0,
+95028,8253679,"Salaz, Quintina",1471912,China,Shenzhen,6/22/1923,Y,,,,,$250k - $500k,screening,Non-Hispanic white,4/17/2016,,"White, Abigail",N,,,
+95150,1265425,"Laguna, Enrique",1482457,China,Shenzhen,,Y,,,,,$25k - $50k,institutional,Non-Hispanic white,11/17/2017,1.0,"Kim, Felicia",N,0.0,,reading
+95335,9638182,"Martinez-Lopez, Hannah",1497900,China,Shenzhen,,Y,,,,,$10k - $25k,screening,Hispanic or Latino,5/3/2017,6.0,"Estrada, Jorge",N,,,"politics,hunting/fishing,sports,boating/sailing,fashion"
+95433,2242658,"el-Nagi, Jam,Aan",1508448,China,Shenzhen,11/13/1979,Y,,,,,>$1k,screening,Hispanic or Latino,7/9/2016,22.0,"Tolbert, Yekalo",Y,,,"sports,fashion,boating/sailing,golf,health/exercise"
+95856,9039701,"Hayes, Katie",1547795,China,Shenzhen,8/4/1940,Y,,,,,$1k - $2.5k,screening,Hispanic or Latino,2/21/2020,44.0,"Sanchez, Nohemi",N,0.0,,"boating/sailing,politics"
+96608,1907142,"Keene-Goos, Brandon",1620482,India,Kolkata,10/2/1922,Y,,,,,$25k - $50k,screening,Non-Hispanic white,,,"White, Abigail",,,,
+96644,8077422,"Williams, Essence",1623541,India,Kolkata,12/4/1949,Y,,,,,,institutional,Hispanic or Latino,1/6/2019,44.0,"Varelas, Michael",,,,"travel,cars,hunting/fishing"
+96670,4659699,"Cruz Medel, Matthew",1625365,India,Kolkata,8/30/1935,Y,,,,,$25k - $50k,screening,Non-Hispanic white,8/10/2017,5.0,"Middleton, Lauren",N,,,boating/sailing
+96718,5758132,"Chau, Anthony",1629171,India,Kolkata,7/1/1940,Y,,,,,$5k - $10k,screening,Non-Hispanic white,,23.0,"Estrada, Jorge",N,,,politics
+96768,1381754,"el-Kamel, Jeelaan",1633468,India,Mumbai,6/27/1954,Y,,,,,$2.5k - $5k,institutional,Non-Hispanic white,9/23/2018,,"al-Hakeem, Haamid",N,,,wine
+97746,1283670,"Woten, Jordan",1716555,Mexico,Ecatepec,5/25/1954,Y,,,,,$75k - $100k,institutional,Hispanic or Latino,7/13/2019,37.0,"Walter, Dianna",Y,,,"wine,health/exercise,boating/sailing,skiing"
+97758,2516255,"Quiroz, Richard",1717815,Mexico,Ecatepec,12/31/1929,Y,,,,,$75k - $100k,institutional,Non-Hispanic white,12/9/2017,33.0,"Ha, John",N,,,"cars,food/dining/cooking"
+97811,8542491,"el-Dar, Raashid",1725451,Mexico,Guadalajara,8/2/1950,Y,,,,,$2.5k - $5k,institutional,Hispanic or Latino,1/14/2017,3.0,"el-Sawaya, Waseema",N,,,
+97943,4546470,"Inherst, Colten",1736879,Mexico,Guadalajara,10/13/1916,Y,,,,,$2.5k - $5k,screening,Hispanic or Latino,,17.0,"Kim, Felicia",N,,,"hunting/fishing,skiing,sports,travel"
+98409,5861414,"Pronteau, Cheyenne",1773712,Nigeria,Lagos,9/29/1963,Y,,,,,$500k - $750k,,Non-Hispanic white,,0.0,"Estrada, Jorge",N,,,reading
+98459,1932973,"Wada, Babalu",1777894,Nigeria,Lagos,1/24/1966,Y,,,,,$100k - $250k,screening,Non-Hispanic white,,27.0,"al-Jaffer, Awda",N,,501.0,
+98553,1186288,"Curtis, Jordan",1784546,Nigeria,Lagos,3/3/1933,Y,,,,,$100k - $250k,institutional,Asian,3/28/2018,16.0,"Sanchez, Nohemi",,,268.0,"cars,reading,boating/sailing"
+99318,1608211,"Johnson, Wyatt",1856755,Pakistan,Lahore,12/3/1953,Y,,,,,$25k - $50k,screening,Asian,10/5/2019,18.0,"el-Sawaya, Waseema",N,,66.0,"travel,politics,golf"
+99701,4804247,"Jacquez, Juan",1892592,Russia,Novosibirsk,4/27/1939,Y,,,,,$750k - $1M,screening,Non-Hispanic white,,,"Masters, Deisha",N,,,hunting/fishing
+99834,3380536,"Declaw, Philman",1907326,Russia,Saint Petersburg,,Y,,,,,,institutional,Black or African American,3/4/2017,8.0,"Topper, Kyle",N,,,"art,cars,skiing,travel,golf"
+99974,1527338,"Hull, Deonta",1920027,Russia,Saint Petersburg,4/30/1950,Y,,,,,$250k - $500k,screening,Non-Hispanic white,3/1/2019,2.0,"al-Salim, Hamdaan",N,,594.0,"travel,cars,golf,skiing"
